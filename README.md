@@ -1,6 +1,6 @@
-# {{REPO_NAME}}
+<h3> Ubuntu </h3>
 
-## {{DESCRIPTION}}
+<h2> Qompass AI Ubuntu </h2>
 
 <p align="center">
   <a href="https://www.gnu.org/licenses/agpl-3.0">
